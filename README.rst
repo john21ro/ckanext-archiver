@@ -11,7 +11,7 @@ ckanext-archiver
 
 Overview
 --------
-
+CKAN Archiver Extension adapted for data.gov.ro.
 The CKAN Archiver Extension will download all of a CKAN's resources, for three purposes:
 
 1. offer the user it as a 'cached' copy, in case the link becomes broken
